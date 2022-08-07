@@ -1,4 +1,4 @@
-# lab5v2
+# Trending Restaurants
 
 A new Flutter project.
 
